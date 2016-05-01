@@ -3,3 +3,6 @@ This is a second message
 This is a third message
 This is  the 4th line from branch after cherry pick was removed by reset
 This is a hello2.txt
+
+This is another commit
+
